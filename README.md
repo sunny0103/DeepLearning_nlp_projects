@@ -1,6 +1,13 @@
 # Deep Learning
 ## Cancer patient classification
-- sklearn data
-- using fully connected layer with Leaky Relu and batch normalization 
-- Adam optimizer
+- Structured Data
+- Predict cancer patients
+
+## Predict Judge
+- NLP Data
+- Predict the verdict
+
+## Korean English Translation
+- NLP Data
+- translate Korean sentences to english
 
