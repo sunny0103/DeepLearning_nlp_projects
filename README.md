@@ -1,9 +1,17 @@
 # Deep Learning
 ## Predict Judge
-- NLP Data
+- Dacon Data
 - Predict the verdict
 
-## Korean English Translation
-- NLP Data
+## AIhub_translation
+- AIhub Korean English translation Data
 - translate Korean sentences to english
+
+## AIconnect_translation
+- AIconnect Korean English translation Data
+- translate Korean sentences to english
+
+## Naver_shopping_reviews
+- Dacon shopping mall reveiws classification Data
+- Multiclass classification 
 
