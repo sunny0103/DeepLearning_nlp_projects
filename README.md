@@ -1,8 +1,4 @@
 # Deep Learning
-## Cancer patient classification
-- Structured Data
-- Predict cancer patients
-
 ## Predict Judge
 - NLP Data
 - Predict the verdict
