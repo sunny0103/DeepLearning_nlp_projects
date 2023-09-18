@@ -14,11 +14,10 @@ Evidently, utilizing the ensemble model resulted in a higher level of accuracy c
 
 #### results:
 - Bert 
-  - validation loss: 
-  -  accuracy: 
+  - Validation loss: 0.701, Accuracy: 0.701
 - electra :
-  - validation loss: 
-  -  accuracy: 
+  - Validation loss: 0.696, Accuracy: 0.698
 - Funnel
-  - validation loss:
-  - accuracy: 
+  - Validation loss: 0.697, Accuracy: 0.708
+- Test result: 
+  - Accuracy: 0.7084
