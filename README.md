@@ -1,17 +1,32 @@
 # Deep Learning
-## Predict Judge
+
+## Text Classification
+### Predict Judge
 - Dacon Data
-- Predict the verdict
+- Predict the verdict(win or lose), binary classification
 
-## AIhub_translation
-- AIhub Korean English translation Data
-- translate Korean sentences to english
+### Naver shopping reviews
+- Dacon shopping mall reveiws classification Data
+- Multiclass classification
 
-## AIconnect_translation
+### News Group
+- Dacon New group classification Data
+- Multiclass classification
+
+### News Topic classification
+- Dacon Korea News Topic classification Data
+- Multiclass classification
+
+## Translation
+### AIconnect translation
 - AIconnect Korean English translation Data
 - translate Korean sentences to english
 
-## Naver_shopping_reviews
-- Dacon shopping mall reveiws classification Data
-- Multiclass classification 
-
+### AIhub translation
+- AIhub Korean English translation Data
+- translate Korean sentences to english
+  
+## Others
+### News Group Cluster
+- Dacon New group cluster Data
+- Unsupervised text cluster
