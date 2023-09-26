@@ -29,4 +29,4 @@
 ## ***Others***
 #### News Group Cluster
 - Dacon New group cluster Data
-- Unsupervised text cluster
+- Unsupervised learning(text data cluster)
