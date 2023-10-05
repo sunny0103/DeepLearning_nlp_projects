@@ -6,14 +6,14 @@
 ### Model Details:
 
 #### BERT ('jason9693/SoongsilBERT-base-beep')
-* Maximum Sequence Length: 64
+* Maximum Length: 64
 * Batch Size: 16
 * Learning Rate: 5e-5
 * Number of Epochs: 2
 * Accuracy: 0.848
 
 #### RoBERTa ('Huffon/klue-roberta-base-nli')
-* Maximum Sequence Length: 64
+* Maximum Length: 64
 * Batch Size: 16
 * Learning Rate: 2e-6
 * Number of Epochs: 3
