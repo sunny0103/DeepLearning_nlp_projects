@@ -8,15 +8,18 @@
 #### BERT ('jason9693/SoongsilBERT-base-beep')
 * Maximum Length: 64
 * Batch Size: 16
-* Learning Rate: 5e-5
-* Number of Epochs: 2
-* Accuracy: 0.848
+* Epoch:2,
+* Train loss: 0.309,
+* Validation loss: 0.418,
+*  Accuracy: 0.862
 
 #### RoBERTa ('Huffon/klue-roberta-base-nli')
 * Maximum Length: 64
 * Batch Size: 16
 * Learning Rate: 2e-6
-* Number of Epochs: 3
+* Epoch:3,
+* Train loss: 0.254,
+* Validation loss: 0.325,
 * Accuracy: 0.887
 
 ### Results:
