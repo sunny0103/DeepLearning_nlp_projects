@@ -12,7 +12,8 @@
 * Learning Rate: 2e-5
 * Train loss: 0.309,
 * Validation loss: 0.418,
-*  Accuracy: 0.862
+* Accuracy: 0.862
+* Test private score: 0.79
 
 #### RoBERTa ('Huffon/klue-roberta-base-nli')
 * Maximum Length: 64
@@ -22,6 +23,7 @@
 * Train loss: 0.254,
 * Validation loss: 0.325,
 * Accuracy: 0.887
+* Test private score: 0.83
 
 #### Koelectra ('monologg/koelectra-base-v3-discriminator')
 * Maximum Length: 64
@@ -31,7 +33,9 @@
 * Train loss: 0.204,
 * Validation loss: 0.368,
 * Accuracy: 0.884
+* Test private score: 0.82
+
+#### Ensemble 
+* Test public score: 0.86
+* Test private score: 0.83
   
-### Results:
-* BERT achieved an accuracy of 0.848 after 2 training epochs.
-* RoBERTa outperformed BERT, achieving an accuracy of 0.887 after 3 training epochs.
