@@ -23,7 +23,7 @@
 * Validation loss: 0.325,
 * Accuracy: 0.887
 
-### Koelectra ('monologg/koelectra-base-v3-discriminator')
+#### Koelectra ('monologg/koelectra-base-v3-discriminator')
 * Maximum Length: 64
 * Batch Size: 16
 * Learning Rate: 2e-5
