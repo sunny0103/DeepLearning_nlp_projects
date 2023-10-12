@@ -25,6 +25,11 @@
 #### AIhub translation
 - AIhub Korean English translation Data
 - translate Korean sentences to english
+
+## ***Summarization***
+#### Meeting script summarization
+- Dacon Meeting script summarization Data
+- Korean Text summarization
   
 ## ***Others***
 #### News Group Cluster
