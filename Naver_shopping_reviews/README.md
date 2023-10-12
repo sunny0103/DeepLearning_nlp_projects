@@ -35,6 +35,8 @@
 * Train loss: 0.754
 * Validation loss: 0.693
 * Accuracy: 0.707
+* Test Public score:: 0.6996
+* Test Private score: 0.70552
 
 #### Ensemble 
 * Test public score:
