@@ -20,6 +20,8 @@
 * Train loss: 0.632
 * Validation loss: 0.688
 * Accuracy: 0.711
+* Test Public score: 0.70552
+* Test Private score: 0.70728
 
 #### Roberta ('jason9693/klue-roberta-small-apeach')
 * LEARNING_RATES = 2e-5
