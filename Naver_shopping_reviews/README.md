@@ -27,6 +27,8 @@
 * rain loss: 0.680
 * Validation loss: 0.749
 * Accuracy: 0.684
+* Test Public score: 0.68136
+* Test Private score: 0.6832
 
 
 #### Funnel(kykim/funnel-kor-base)
@@ -35,7 +37,7 @@
 * Train loss: 0.754
 * Validation loss: 0.693
 * Accuracy: 0.707
-* Test Public score:: 0.6996
+* Test Public score: 0.6996
 * Test Private score: 0.70552
 
 #### Ensemble 
