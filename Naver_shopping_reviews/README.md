@@ -13,6 +13,8 @@
 * Train loss: 0.790
 * Validation loss: 0.731
 * Accuracy: 0.684
+* Test Public score: 0.67912
+* Test Private score: 0.68288
 
 ####  Electra ('kykim/electra-kor-base')
 * LEARNING_RATES = 2e-6
@@ -43,7 +45,7 @@
 * Test Private score: 0.70552
 
 #### Ensemble 
-* Test public score:
-* Test private score:
+* Test public score: 0.70904
+* Test private score: 0.71096
   
 
