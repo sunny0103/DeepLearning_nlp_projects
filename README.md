@@ -5,6 +5,7 @@
 * **Naver shopping reviews**
 * **News Group**
 * **News Topic classification**
+* **Financial News Classification**
 
 ## ***Translation***
 * **AIconnect translation**   *translate Korean sentences to english*
