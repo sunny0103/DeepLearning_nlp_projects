@@ -6,6 +6,7 @@
 * **News Group**
 * **News Topic classification**
 * **Financial News Classification**
+* **Korean hate speach Classification**   *Multi Label classification*
 
 ## ***Translation***
 * **AIconnect translation**   *translate Korean sentences to english*
