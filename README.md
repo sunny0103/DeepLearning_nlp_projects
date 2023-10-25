@@ -8,6 +8,7 @@
 * **Financial News Classification**
 * **Korean hate speach Classification**   *Multi Label classification*
 * **Movie reviews**
+* **KLUE NLI** *Inference tesk*
 
 ## ***Translation***
 * **AIconnect translation**   *translate Korean sentences to english*
