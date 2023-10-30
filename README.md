@@ -10,7 +10,7 @@
 * **Movie reviews**
 * **KLUE NLI** *Inference tesk*
 * **KLUE RE** *Relation tesk*
-* 
+  
 ## ***Translation***
 * **AIconnect translation**   *translate Korean sentences to english*
 * **AIhub translation**     *translate Korean sentences to english*
