@@ -9,11 +9,14 @@
 * input_size = 10003
 * word_vec_size = 100
 * hidden_size = 128
-* output_size = 2
 * learning_rate = 0.01
 * NUM_EPOCHS=5
 * optimizer = Adam
-* unstable training progress -> need to fix 
 
-
+#### GRU
+* input_size = vocab_size
+* word_vec_size = 100
+* hidden_size = 128
+* learning_rate = 0.001
+* NUM_EPOCHS=5
   
