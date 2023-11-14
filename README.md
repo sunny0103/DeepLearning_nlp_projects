@@ -3,6 +3,7 @@
 ## ***Text Classification***
 * **Predict Judge**
 * **Naver shopping reviews**
+* **Naver Movie reviews**
 * **News Group**
 * **News Topic classification**
 * **Financial News Classification**
