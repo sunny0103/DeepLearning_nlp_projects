@@ -22,13 +22,6 @@
 * optimizer = Adam
 * Test Accuracy: 0.5003
 
-#### GRU
-* input_size = vocab_size
-* word_vec_size = 100
-* hidden_size = 128
-* learning_rate = 0.001
-* NUM_EPOCHS=5
-
 #### Bert base("klue/bert-base")
 * max_len = 64
 * BATCH_SIZE = 16
