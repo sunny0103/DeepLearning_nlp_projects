@@ -35,4 +35,5 @@
 * dropout_rate = 0.2
 * num_epochs = 5
 * Learning_rate =  2e-5
+* Test accuracy 0.902
   
