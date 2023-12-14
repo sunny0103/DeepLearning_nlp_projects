@@ -19,6 +19,9 @@
 ## ***Summarization***
 * **Meeting script summarization** *Korean Text summarization*
   
+## ***Machine Reading Comprehension***
+* **AIconnect_MRC** *Korean Text machine reading comprehension*
+  
 ## ***Others***
 * **News Group Cluster**    *Unsupervised learning(text data cluster)*
 * **Wikitext NLG** *gpt2 model*
